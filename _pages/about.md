@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jiacheng Shen is a Ph.D. from [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/), Department of Computer Science and Engineering, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (supervised by Prof. Michael R. Lyu). He received a B.Eng degree in Computer Science from [Fudan Unversity](https://www.fudan.edu.cn/) in 2020.
-
-He is currently working at Huawei Cloud as research intern on storage systems over disaggregated memory. His research interests are memory disaggregation, RDMA systems, and cloud computing.
+Jiacheng Shen is a Ph.D. from [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/), Department of Computer Science and Engineering, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (supervised by Prof. Michael R. Lyu). He received a B.Eng degree in Computer Science from [Fudan Unversity](https://www.fudan.edu.cn/) in 2020. His research interests are memory disaggregation, RDMA systems, and cloud computing.
 
 
 Selected Publications
