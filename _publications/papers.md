@@ -1,4 +1,4 @@
-1. **Jiacheng Shen**, Pengfei Zuo, Xuchuan Luo, Jiazhen Gu, Yuxin Su, Yangfan Zhou, Hao Feng, and Michael R. Lyu. Anole: An Elastic and Adaptive Memory-Disaggregated Caching System. Accpeted and to appear in the 29th ACM Symposium on Operating Systems Principles (SOSP), 2023.
+1. **Jiacheng Shen**, Pengfei Zuo, Xuchuan Luo, Yuxin Su, Jiazhen Gu, Yangfan Zhou, Hao Feng, and Michael R. Lyu. Anole: An Elastic and Adaptive Memory-Disaggregated Caching System. Accpeted and to appear in the 29th ACM Symposium on Operating Systems Principles (SOSP), 2023.
 
 1. Xuchuan Luo, Pengfei Zuo, **Jiacheng Shen**, Jiazhen Gu, Xin Wang, Michael Lyu, Yangfan Zhou. SMART: A High-Performance Apative Radix Tree for Disaggregated Memory. Accepted and to appear in the 17th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2023.
 
