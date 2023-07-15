@@ -12,7 +12,7 @@ Jiacheng Shen is a Ph.D. from [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/), Dep
 
 News
 -----
-- Our new paper "Anole: An Elastic and Adaptive Memory-Disaggregated Caching System" has been accepted by SOSP'2023!
+- Our new paper *Anole: An Elastic and Adaptive Memory-Disaggregated Caching System* has been accepted by SOSP 2023!
 
 
 Selected Publications
