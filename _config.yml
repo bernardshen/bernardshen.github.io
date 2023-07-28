@@ -11,7 +11,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jiacheng Shen"
 description              : &description "personal description"
-url                      : https://bernardshen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bernardshen.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bernardshen/bernardshen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -86,7 +86,7 @@ author:
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=n4QXRrUAAAAJ&hl=en"
   email            :  "jcshen@cse.cuhk.edu.hk"
   researchgate     : 
   uri              :
