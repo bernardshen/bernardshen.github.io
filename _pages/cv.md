@@ -9,27 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Click [here](files/cv.pdf) for the PDF version.
+
 Education
 ======
-* B.S. in Computer Science and Engineering, Fudan University, 2016 - 2020
 * Ph.D in Computer Science and Engineering, The Chinese University of Hong Kong, 2020 - now
+* B.S. in Computer Science and Engineering, Fudan University, 2016 - 2020
 
-Work experience
+Working Experience
 ======
-* August 2021: Research Intern
-  * Huawei Cloud
-  * Research Topics: Storage Systems on Disaggregated Memory
-  * Mentor: Pengfei Zuo
+* Huawei Cloud: Research Intern
+  * 2021.08 - Present
+* Fudan University: Research Assistant
+  * 2020.08 - 2021.07
+* Microsoft: Software Development Intern
+  * 2019.10 - 2020.01
   
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
-
 Publications
 ======
   <ul>{% for post in site.publications %}
