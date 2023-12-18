@@ -10,7 +10,7 @@ redirect_from:
 
 Jiacheng Shen is a 4th-year Ph.D. student from [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/), Department of Computer Science and Engineering, The Chinese University of Hong Kong (supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)). He received a B.Sc degree in Computer Science from Fudan Unversity in 2020 (supervised by [Prof. Yangfan Zhou](https://appsrv.cse.cuhk.edu.hk/~yfzhou/)). 
 
-Jiacheng's research interests span memory systems, distributed systems, and cloud computing. Specifically, he is devoted to building high-performance and resource-efficient cloud storage systems using modern and emerging hardware, *e.g.*, disaggregated memory. His recent work focuses on improving the efficiency and reliability of storage systems on disaggregated memory and has published 9 papers in major conferences and journals in the areas of computer systems and software engineering, including SOSP, OSDI, FAST, ICDCS, DSN, etc.
+Jiacheng's research interests span memory systems, distributed systems, and cloud computing. Specifically, he is devoted to building high-performance and resource-efficient systems for next-generation data center. His recent work focuses on improving the efficiency and reliability of storage systems on disaggregated memory. He has published 9 papers in major conferences and journals in the areas of computer systems and software engineering, including SOSP, OSDI, FAST, ICDCS, DSN, etc.
 
 News
 -----
