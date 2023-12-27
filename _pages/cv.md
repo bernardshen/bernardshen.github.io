@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](http://bernardshen.github.io/files/CV.pdf) for the PDF version.
+Click [here](http://bernardshen.github.io/files/cv_jcshen.pdf) for the PDF version.
 
 Education
 ======
