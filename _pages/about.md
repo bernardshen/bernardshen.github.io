@@ -17,7 +17,7 @@ Jiacheng's research interests span distributed systems, data center resource dis
 <div class="warning">
 <div class="warning-title"><p>Recruiting</p></div>
 <div class="warning-text"><p>
-I will join <a href="https://www.dukekunshan.edu.cn/">Duke Kunshan</a> in October 2024 as a tenure-track assistant professor. I'm looking for Ph.D/M.Phil./RA students starting in 2025 fall to work on systems for large language model (LLM) inference and training.
+I will join <a href="https://www.dukekunshan.edu.cn/">Duke Kunshan</a> in October 2024 as a tenure-track assistant professor. I'm looking for Ph.D/M.Phil./RA students starting in 2025 spring/fall to work on systems for large language model (LLM) inference and training.
 </p>
 <p style="margin-top:-0.8em">
 If you are interested in working with me, drop me an email (jcshen.dku@gmail.com) with the subject "{PhD|MPhil|RA}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached.
