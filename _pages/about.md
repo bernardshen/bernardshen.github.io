@@ -8,9 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Jiacheng Shen is a 4th-year Ph.D. student from [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/), Department of Computer Science and Engineering, The Chinese University of Hong Kong (supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)). He received a B.Sc degree in Computer Science from Fudan Unversity in 2020 (supervised by [Prof. Yangfan Zhou](https://appsrv.cse.cuhk.edu.hk/~yfzhou/)). 
+{% include styles.html %}
 
-Jiacheng's research interests span memory systems, distributed systems, and cloud computing. Specifically, he is devoted to building high-performance and resource-efficient systems for next-generation data center. His recent work focuses on improving the efficiency and reliability of storage systems on disaggregated memory. He has published 9 papers in major conferences and journals in the areas of computer systems and software engineering, including SOSP, OSDI, FAST, ICDCS, DSN, etc.
+Jiacheng Shen is a final-year Ph.D. student from [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/), Department of Computer Science and Engineering, The Chinese University of Hong Kong (supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)). He received a B.Sc degree in Computer Science from Fudan Unversity in 2020 (supervised by [Prof. Yangfan Zhou](https://appsrv.cse.cuhk.edu.hk/~yfzhou/)). 
+
+Jiacheng's research interests span distributed systems, data center resource disaggregation, and machine learning systems. He focuses on building high-performance and resource-efficient systems for next-generation data centers. His works have been published at top systems venues, including SOSP, OSDI, FAST, ICDCS, DSN, etc.
+
+<div class="warning">
+<div class="warning-title"><p>Recruiting</p></div>
+<div class="warning-text"><p>
+I will join <a href="https://www.dukekunshan.edu.cn/">Duke Kunshan</a> in October 2024 as a tenure-track assistant professor. I'm looking for Ph.D/M.Phil./RA students starting in 2025 fall to work on systems for large language model (LLM) inference and training.
+</p>
+<p style="margin-top:-0.8em">
+If you are interested in working with me, drop me an email (jcshen.dku@gmail.com) with the subject "{PhD|MPhil|RA}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached.
+</p>
+<p style="margin-top:-0.8em">
+See <a href="openings">openings</a> for more details.
+</p></div>
+</div>
 
 News
 -----

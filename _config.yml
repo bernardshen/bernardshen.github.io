@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=n4QXRrUAAAAJ&hl=en"
-  email            :  "jcshen@cse.cuhk.edu.hk"
+  email            :  "jcshen.dku@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -209,6 +209,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: openings
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # # _teaching
   # - scope:
   #     path: ""
