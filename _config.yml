@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Jiacheng Shen"
   avatar           : "jiacheng_profile.png"
-  bio              : "Good good study, day day up."
-  location         : "Hong Kong, China"
+  bio              : "Assistant Professor"
+  affil            : "Duke Kunshan University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=n4QXRrUAAAAJ&hl=en"
-  email            :  "jcshen.dku@gmail.com"
+  email            :  "jc.shen@dukekunshan.edu.cn"
   researchgate     : 
   uri              :
   bitbucket        :

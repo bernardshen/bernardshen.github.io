@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-{% include styles.html %}
+{% include styles.html %} 
 
-Jiacheng Shen is a final-year Ph.D. student from [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/), Department of Computer Science and Engineering, The Chinese University of Hong Kong (supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)). He received a B.Sc degree in Computer Science from Fudan Unversity in 2020 (supervised by [Prof. Yangfan Zhou](https://appsrv.cse.cuhk.edu.hk/~yfzhou/)). 
+Jiacheng Shen is an incoming tenure-track assistant professor at [Duke Kunshan University (DKU)](https://www.dukekunshan.edu.cn/) starting from October 2024. He received his Ph.D. degree from Department of Computer Science and Engineering, The Chinese University of Hong Kong (supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)), and a B.Sc degree in Computer Science from Fudan Unversity in 2020. 
 
-Jiacheng's research interests span distributed systems, data center resource disaggregation, and machine learning systems. He focuses on building high-performance and resource-efficient systems for next-generation data centers. His works have been published at top systems venues, including SOSP, OSDI, FAST, ICDCS, DSN, etc.
+Jiacheng's research interests span machine learning systems, distributed systems, and data center resource disaggregation. His works have been published at top systems venues, including SOSP, OSDI, FAST, ICDCS, DSN, etc.
 
 <div class="warning">
 <div class="warning-title"><p>Recruiting</p></div>
 <div class="warning-text"><p>
-I will join <a href="https://www.dukekunshan.edu.cn/">Duke Kunshan</a> in October 2024 as a tenure-track assistant professor. I'm looking for Ph.D/M.Phil./RA students starting in 2025 spring/fall to work on systems for large language model (LLM) inference and training.
+I'm looking for Ph.D./MPhil/RA students starting from 2025 spring/fall to work with me on machine learning systems and distributed systems.
 </p>
 <p style="margin-top:-0.8em">
-If you are interested in working with me, drop me an email (jcshen.dku@gmail.com) with the subject "{PhD|MPhil|RA}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached.
+If you are interested in working with me, fill in this <a href="https://wj.qq.com/s2/15000145/4328/">quick survey</a> or drop me an email (jc.shen@dukekunshan.edu.cn) with the subject "{PhD|MPhil|RA}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached.
 </p>
 <p style="margin-top:-0.8em">
 See <a href="openings">openings</a> for more details.
@@ -29,7 +29,7 @@ See <a href="openings">openings</a> for more details.
 
 News
 -----
-- We are maintaining a paper list tracking advances in resource disaggregation and memory disaggregation. Check this [link](https://github.com/dmemsys/awesome-disaggregated-memory) for more information!
+- We are maintaining a paper list tracking advances in resource disaggregation and memory disaggregation. Check [here](https://github.com/dmemsys/awesome-disaggregated-memory) for more information!
 - Our new paper *Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System* has been accepted by SOSP 2023!
 
 
