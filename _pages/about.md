@@ -29,6 +29,7 @@ See <a href="openings">openings</a> for more details.
 
 News
 -----
+- I will serve as PC members for ICDCS'25 and USENIX ATC'25.
 - Our new paper *CHIME: A Cache-Efficient and High-Performance Hybrid Index on Disaggregated Memory* has been accepted by SOSP 2024!
 - We are maintaining a paper list tracking advances in resource disaggregation and memory disaggregation. Check [here](https://github.com/dmemsys/awesome-disaggregated-memory) for more information!
 - Our new paper *Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System* has been accepted by SOSP 2023!
