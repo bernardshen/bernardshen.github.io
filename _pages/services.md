@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ### 2025
-*PC Member:* ICDCS, ATC
+*PC Member:* ICDCS, ATC  
 *Reviewer:* NSDI
 
 ### 2024
-*PC Member:* ISSRE Fast Abstract Track
+*PC Member:* ISSRE Fast Abstract Track  
 *Reviewer:* TACO, STVR, FSE
 
 ### 2023  
