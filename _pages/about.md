@@ -10,9 +10,7 @@ redirect_from:
 
 {% include styles.html %} 
 
-Jiacheng Shen is an incoming tenure-track assistant professor at [Duke Kunshan University (DKU)](https://www.dukekunshan.edu.cn/) starting from October 2024. He received his Ph.D. degree from Department of Computer Science and Engineering, The Chinese University of Hong Kong (supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)), and a B.Sc degree in Computer Science from Fudan Unversity in 2020. 
-
-Jiacheng's research interests span machine learning systems, distributed systems, and data center resource disaggregation. His works have been published at top systems venues, including SOSP, OSDI, FAST, ICDCS, DSN, etc.
+Jiacheng Shen is an assistant professor of Electrical and Computer Engineering at [Duke Kunshan University (DKU)](https://www.dukekunshan.edu.cn/). He received his Ph.D. degree from Department of Computer Science and Engineering, The Chinese University of Hong Kong (supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)), and a B.Sc degree in Computer Science from Fudan Unversity. His research interests span machine learning systems, distributed storage systems, and data center resource disaggregation. His works have been published at top systems venues, including SOSP, OSDI, FAST, ICDCS, DSN, etc.
 
 <div class="warning">
 <div class="warning-title"><p>Recruiting</p></div>
