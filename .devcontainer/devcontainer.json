@@ -1,0 +1,9 @@
+{
+  "name": "Jekyll Development",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "forwardPorts": [4000],
+  "remoteUser": "vscode"
+} 

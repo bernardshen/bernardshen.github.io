@@ -1,0 +1,64 @@
+<li class="publication-item">
+  <div class="publication-line">
+    <div>
+      <span class="pub-venue-year">{{ post.venue_abbr }}</span>
+    </div>
+    <div class="pub-content">
+      <div class="pub-title">
+        {{ post.title }}
+      </div>
+      <div class="pub-authors">
+        {{ post.authors }}
+      </div>
+      <div class="pub-venue">
+        {{ post.venue_full }}{% if post.note %}. {{ post.note }}{% endif %}
+      </div>
+      {% if post.paperurl or post.codeurl %}
+        <div class="pub-links">
+          {% if post.paperurl %}[<a href="{{ post.paperurl }}">PDF</a>]{% endif %}
+          {% if post.codeurl %}[<a href="{{ post.codeurl }}">Code</a>]{% endif %}
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</li>
+
+<style>
+.publication-item {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+.publication-line {
+  display: flex;
+  gap: 2em;
+}
+.pub-venue-year {
+  min-width: 120px;
+  font-weight: bold;
+  background-color: #e4dfdf;
+  padding: 5px;
+  border-radius: 4px;
+  display: inline-block;
+  text-align: center;
+  /* font-size: 0.9em; */
+}
+.pub-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3em;
+}
+.pub-authors {
+  font-weight: normal;
+}
+.pub-title {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.pub-venue {
+  color: #666;
+  font-style: italic;
+}
+.pub-links {
+  white-space: nowrap;
+}
+</style>
