@@ -14,10 +14,10 @@ In this course, we will discuss the motivations and trade-offs of moving to the 
 
 | Date | Class topics | Readings | Activities | Assignments due |
 |------|--------------|----------|------------|-----------------|
-| Week 1 | [Logistics](#), [Motivation](#), [Elastic Computing](#), [Cloud Types](#), [Infrastructure](#) | [DC] Chapters 1-4 | Lectures, Lab 1 | SSH key due (Thursday) |
-| Week 2 | Distributed Computing: [MapReduce](#), [Google File System](#), [PageRank](#), [Spark](#) | [DC] Chapter 11 | Lectures | Release [Assignment 1](#) (Thursday) |
-| Week 3 | Virtualization I: [VM](#), [Container](#) | [DC] Chapters 5-7 | Lectures, Lab 2 | Release [Presentation Topics](#) |
-| Week 4 | Virtualization II: [Virtual Network](#), [Virtual Storage](#)<br>Automation and Orchestration I: [Automation with Ansible](#) | [DC] Chapters 9, 10 | Lectures, Lab 3 | Assignment 1 due (Thursday)<br>Release [Assignment 2](#) (Friday)<br>[Lab 3 Solution](#) |
-| Week 5 | Automation and Orchestration II: [Orchestration with Kubernetes](#)<br>Programming paradigms I: [DevOps](#) | [DC] Chapters 12 - 14 | Lectures, Lab 4, [Midterm](#) | |
-| Week 6 | Programming paradigms II: [Microservice](#), [Serverless I](#) | [DC] Chapter 15 | Lectures, Lab 5, Lab 6 | Assignment 2 due (Wednesday) |
-| Week 7 | [Serverless II](#), [Review](#) | [DC] Chapters 16, 17, 18 | Lectures, Presentations | [Presentation slides](#) due (Thursday) |
+| Week 1 | Logistics, Motivation, Elastic Computing, Cloud Types, Infrastructure | [DC] Chapters 1-4 | Lectures, Lab 1 | SSH key due (Thursday) |
+| Week 2 | Distributed Computing: MapReduce, Google File System, PageRank, Spark | [DC] Chapter 11 | Lectures | Release Assignment 1 (Thursday) |
+| Week 3 | Virtualization I: VM, Container | [DC] Chapters 5-7 | Lectures, Lab 2 | Release Presentation Topics |
+| Week 4 | Virtualization II: Virtual Network, Virtual Storage<br>Automation and Orchestration I: Automation with Ansible | [DC] Chapters 9, 10 | Lectures, Lab 3 | Assignment 1 due (Thursday)<br>Release Assignment 2 (Friday)<br>Lab 3 Solution |
+| Week 5 | Automation and Orchestration II: Orchestration with Kubernetes<br>Programming paradigms I: DevOps | [DC] Chapters 12 - 14 | Lectures, Lab 4, Midterm | |
+| Week 6 | Programming paradigms II: Microservice, Serverless I | [DC] Chapter 15 | Lectures, Lab 5, Lab 6 | Assignment 2 due (Wednesday) |
+| Week 7 | Serverless II, Review | [DC] Chapters 16, 17, 18 | Lectures, Presentations | Presentation slides due (Thursday) |
