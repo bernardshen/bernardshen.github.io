@@ -6,5 +6,5 @@ main:
     url: /services/
   - title: "Teaching"
     url: /teachings/
-  # - title: "Openings"
-  #   url: /openings/
+  - title: "Openings"
+    url: /openings/
